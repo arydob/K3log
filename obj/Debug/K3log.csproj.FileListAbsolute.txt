@@ -1,0 +1,9 @@
+C:\Users\arydo\OneDrive\Documents\projects\git\K3log\bin\Debug\K3log.exe.config
+C:\Users\arydo\OneDrive\Documents\projects\git\K3log\bin\Debug\K3log.exe
+C:\Users\arydo\OneDrive\Documents\projects\git\K3log\bin\Debug\K3log.pdb
+C:\Users\arydo\OneDrive\Documents\projects\git\K3log\obj\Debug\K3log.csproj.AssemblyReference.cache
+C:\Users\arydo\OneDrive\Documents\projects\git\K3log\obj\Debug\K3log.Properties.Resources.resources
+C:\Users\arydo\OneDrive\Documents\projects\git\K3log\obj\Debug\K3log.csproj.GenerateResource.cache
+C:\Users\arydo\OneDrive\Documents\projects\git\K3log\obj\Debug\K3log.csproj.CoreCompileInputs.cache
+C:\Users\arydo\OneDrive\Documents\projects\git\K3log\obj\Debug\K3log.exe
+C:\Users\arydo\OneDrive\Documents\projects\git\K3log\obj\Debug\K3log.pdb

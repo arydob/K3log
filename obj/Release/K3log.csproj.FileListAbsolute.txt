@@ -1,0 +1,12 @@
+C:\Users\arydo\source\repos\trackey\trackey\bin\Release\K3log.exe.config
+C:\Users\arydo\source\repos\trackey\trackey\bin\Release\K3log.exe
+C:\Users\arydo\source\repos\trackey\trackey\bin\Release\K3log.pdb
+C:\Users\arydo\source\repos\trackey\trackey\bin\Release\Aspose.Email.dll
+C:\Users\arydo\source\repos\trackey\trackey\bin\Release\Aspose.Email.xml
+C:\Users\arydo\source\repos\trackey\trackey\obj\Release\K3log.csproj.AssemblyReference.cache
+C:\Users\arydo\source\repos\trackey\trackey\obj\Release\K3log.Properties.Resources.resources
+C:\Users\arydo\source\repos\trackey\trackey\obj\Release\K3log.csproj.GenerateResource.cache
+C:\Users\arydo\source\repos\trackey\trackey\obj\Release\K3log.csproj.CoreCompileInputs.cache
+C:\Users\arydo\source\repos\trackey\trackey\obj\Release\K3log.csproj.CopyComplete
+C:\Users\arydo\source\repos\trackey\trackey\obj\Release\K3log.exe
+C:\Users\arydo\source\repos\trackey\trackey\obj\Release\K3log.pdb

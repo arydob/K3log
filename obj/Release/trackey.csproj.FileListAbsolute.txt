@@ -1,0 +1,12 @@
+C:\Users\arydo\source\repos\trackey\trackey\bin\Release\trackey.exe.config
+C:\Users\arydo\source\repos\trackey\trackey\bin\Release\trackey.exe
+C:\Users\arydo\source\repos\trackey\trackey\bin\Release\trackey.pdb
+C:\Users\arydo\source\repos\trackey\trackey\obj\Release\trackey.csproj.AssemblyReference.cache
+C:\Users\arydo\source\repos\trackey\trackey\obj\Release\trackey.Properties.Resources.resources
+C:\Users\arydo\source\repos\trackey\trackey\obj\Release\trackey.csproj.GenerateResource.cache
+C:\Users\arydo\source\repos\trackey\trackey\obj\Release\trackey.csproj.CoreCompileInputs.cache
+C:\Users\arydo\source\repos\trackey\trackey\obj\Release\trackey.exe
+C:\Users\arydo\source\repos\trackey\trackey\obj\Release\trackey.pdb
+C:\Users\arydo\source\repos\trackey\trackey\bin\Release\Aspose.Email.dll
+C:\Users\arydo\source\repos\trackey\trackey\bin\Release\Aspose.Email.xml
+C:\Users\arydo\source\repos\trackey\trackey\obj\Release\trackey.csproj.CopyComplete
