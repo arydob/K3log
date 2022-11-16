@@ -88,6 +88,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="InDinLib.cs" />
+    <Compile Include="pipeServer.cs" />
     <Compile Include="StringsCollector.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
